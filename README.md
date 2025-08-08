@@ -20,6 +20,26 @@ textetxtetetetxettxtextetxtetxtetxtextextete
 
 textetxtetetetxettxtextetxtetxtetxtextextete
 
+<details>
+
+<summary>description</summary>
+
+### Header inside
+
+TEXT
+
+textetxetxtetetxte
+
+xtetxtetxtexttex
+
+```
+
+codecodecoe
+
+```
+
+</details>
+
 ## section 2.1
 
 textetxtetetetxettxtextetxtetxtetxtextextete
