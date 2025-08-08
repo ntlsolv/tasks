@@ -20,11 +20,11 @@ textetxtetetetxettxtextetxtetxtetxtextextete
 
 textetxtetetetxettxtextetxtetxtetxtextextete
 
-<details>
-
 ### Header inside 1
 
-<summary>### Header inside 2</summary>
+<details>
+
+<summary>Summary</summary>
 
 TEXT
 
