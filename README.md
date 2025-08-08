@@ -22,9 +22,9 @@ textetxtetetetxettxtextetxtetxtetxtextextete
 
 <details>
 
-<summary>description</summary>
+### Header inside 1
 
-### Header inside
+<summary>### Header inside 2</summary>
 
 TEXT
 
